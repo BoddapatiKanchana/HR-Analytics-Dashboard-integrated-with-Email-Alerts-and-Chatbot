@@ -43,21 +43,21 @@ The solution enables HR managers to proactively monitor workforce metrics, ident
 
 ##  Key Features
 
-### 🔹 HR Analytics Dashboard
+###  HR Analytics Dashboard
 - KPIs: Total Employees, Average Salary, Satisfaction, Productivity, Tenure
 - Department-wise and role-wise analysis
 - Interactive filters (Department, Gender, Job Title, Hire Date, Retention Risk)
 
-### 🔹 Email Alert System
+###  Email Alert System
 - Manual trigger using **Send Email** button
 - Sends retention-risk employee details to HR admin
 - Email delivery confirmation shown on dashboard
 
-### 🔹 Real-Time Alerts
+###  Real-Time Alerts
 - Dashboard last refresh timestamp (auto-updates every 2 minutes)
 - Email sent / not sent status indicator
 
-### 🔹 Chatbot Integration
+###  Chatbot Integration
 - Answers HR queries such as:
   - Average salary by department
   - Top performers
@@ -67,4 +67,44 @@ The solution enables HR managers to proactively monitor workforce metrics, ident
 
 ---
 
-## Repository Structure
+
+---
+
+##  Insights Generated
+- High retention risk observed in **Finance and Customer Support** departments
+- Performance improves in early years but plateaus later
+- Pay-performance mismatches identified in some departments
+- Average job satisfaction around **3/5**, varying across departments
+- Even distribution of workload and remote work opportunities
+
+---
+
+##  Power BI vs Python Dashboard
+| Feature | Power BI | Python Dash |
+|------|--------|------------|
+| Ease of Use | High | Moderate |
+| Customization | Limited | High |
+| Alerts | Limited | Advanced |
+| Chatbot | ❌ | ✅ |
+| Automation | ❌ | ✅ |
+
+Python Dash proved more suitable for **real-time alerts, chatbot integration, and automation**.
+
+---
+
+##  Future Scope
+- Integration with live HRMS / ERP systems
+- Predictive attrition modeling using ML
+- Voice-enabled and multilingual chatbot
+- Cloud deployment (AWS / Azure / GCP)
+
+---
+
+##  Author
+**Boddapati Kanchana**  
+MBA (Business Analytics) – 2024–26  
+University of Hyderabad  
+Contact: kanchanabodddapati@gmail.com
+
+---
+
